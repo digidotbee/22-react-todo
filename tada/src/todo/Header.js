@@ -18,13 +18,4 @@ import PropTypes from 'prop-types'
       title: "todos",
   }
 
-//   Header.propTypes = {
-//       title: PropTypes.string.isRequired,
-//   }
-
-// CSS in JSX
-//   const headingStyle = {
-//       color: 'red',
-//   }
-  
   export default Header
